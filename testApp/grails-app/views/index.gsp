@@ -1,7 +1,13 @@
 <!doctype html>
 <html>
 <head>
-    <title>Welcome to Shanes Application</title>
+	<style>
+		body { background-color: blue;}
+		h1 { color: black; font-family: arial;}
+		h3 { color: gray; font-family: arial;} 
+		p { color: white; font-family: arial;}
+	</style>
+	<title>Welcome to Shanes Application</title>
 </head>
 <body>
     <content tag="nav">
